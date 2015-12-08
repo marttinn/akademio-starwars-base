@@ -6,5 +6,5 @@
 
 *css/style.css 
 
-made by the akademio team. Please visit our webpage! Create courses:
-[akademio](http://akademio.xyz/)
+made by the akademio team. 
+Please visit our [website](http://akademio.xyz/)
