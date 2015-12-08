@@ -1,0 +1,224 @@
+
+@font-face {
+  font-family: 'Mystarwarsss';
+  src: url('stjedise.ttf');
+  font-weight: bold;
+}
+
+a {
+  z-index: 1!important;
+  position: relative;
+}
+
+body{
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-family: 'Mystarwarsss','Montserrat', sans-serif;
+	color: #000000;
+	text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+	cursor: url("../img/lighsaber.png");
+	background-color: black;
+	background-image: url("../img/stars.jpg");
+	background-repeat: repeat;
+
+}
+.normal-font{
+font-family: 'Montserrat', sans-serif;
+text-shadow: none;
+color: #000!important;
+text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+
+}
+
+.titler{
+  color: #E5E5EC!important;
+  text-shadow: none!important;
+}
+
+.blue-background{
+	background-color: blue;
+}
+.red-background{
+	background-color: red;
+}
+
+.bigtext{
+	font-weight: 700!important;
+	/*color: white!important;*/
+	font-size: 2.6rem;
+}
+
+.btn{
+	color: #030303!important;
+	background-color: #ffffff!important;
+}
+
+.btn:hover{
+	background-color: #f9f9f9!important;
+
+}
+
+.slider h5{
+	font-size: 1.5em;
+
+}
+.slides{
+	background: none !important;
+}
+
+.card{
+	text-align: center;
+	padding: 15px !important;
+/*	margin: 1px !important;
+*/
+  border: 1px;
+  border-color:#FFE81F;
+	margin-bottom: 0;
+  border-style: solid;
+
+	}
+
+.light-blue-ak-bg{
+	background-color: #5ac8e3;
+}
+
+.smaller-video{
+	height: 220px!important;
+}
+
+.player-image{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	opacity: 90%;
+}
+
+.player-image:hover{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	opacity: 100%;
+}
+
+.active{
+	display: block;
+}
+
+.offscreen{
+	display: none;
+}
+
+#mini-video{
+	position: absolute;
+	top: 0;
+	height: 100%;
+	z-index: -1000;
+}
+
+
+a{
+	text-decoration: underline;
+	color: white;
+	cursor: pointer;
+}
+
+.akademioColor{
+	background-color: #5ac8e3!important;
+}
+.akademioColorText{
+	color: #5ac8e3!important;
+}
+.firstColor{
+	/*background-color: #5ac8e3!important;*/
+	background-color: #000000;
+}
+.secondColor{
+	/*background-color: #68c9d0!important;*/
+	background-color: #000000;
+}
+.thirdColor{
+	background-color: #74c9bd!important;
+}
+.fourthColor{
+	background-color: #7ecaaa;
+}
+.fifthColor{
+	background-color: #87ca96;
+}
+.sixthColor{
+	background-color: #8fcb83;
+}
+.seventhColor{
+	background-color: #98cc6d;
+}
+
+
+a:hover{
+	cursor: pointer;
+}
+
+.correct-answer{
+	background-color: green;
+	color: white;
+}
+
+.incorrect-answer{
+	background-color: red;
+	color: white;
+}
+
+.incorrect-answer{
+	background-color: #E5E5EC!important;
+  color: #00236D;
+}
+
+.useful-link{
+	font-size: 1.5em;
+}
+
+.stuckUpper{
+	margin-top: -15px;
+}
+.stuckUpperInside{
+	margin-top: 0px;
+}
+
+.stuckDown{
+
+}
+
+.background-img-headline{
+	text-shadow: 1px 1px #000!important;
+	background-color: rgba(0, 0, 30, 0.2)!important;
+}
+
+.navbarStar{
+  background-color: #00236D;
+}
+
+.notextshadow{
+  text-shadow: none!important;
+}
+
+.button-font{
+  text-shadow: none!important;
+  color: #00236D!important;
+  font-family: 'Montserrat'
+}
+
+.alilbigger{
+  font-size: 1.7em!important;
+}
+
+.jedi-bg{
+  background-color: #00236D!important;
+  color: white;
+}
+
+.sith-bg{
+  background-color: red;
+  color: white;
+}
+
+.fontMonse{
+  font-family: 'Montserrat';
+}
